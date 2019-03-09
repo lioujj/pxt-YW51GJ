@@ -1,0 +1,5 @@
+{
+    "YW51GJ|block": "PM2.5",
+    "YW51GJ.setSerial|block": "設定 YW-51GJ 連結到引腳 %pin",  
+    "YW51GJ.getData|block": "PM2.5濃度(ug/m3)"
+}
